@@ -58,4 +58,4 @@ Or open the project in Qt Creator for easier build, run, and debugging.
 This project is provided for educational and non-commercial use.
 Feel free to use, modify, and expand it.
 
-🐾 Pull requests and contributions are welcome!
+Pull requests and contributions are welcome!
