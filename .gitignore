@@ -1,0 +1,39 @@
+# Build artifacts
+build/
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
+*.exe
+*.out
+*.app
+
+# Qt-specific files
+*.moc
+*.qrc
+*.qmlc
+*.qm
+*.pro.user*
+*.qmake.stash
+Makefile
+moc_*
+ui_*
+qrc_*
+
+# Backup and temp
+*~
+*.autosave
+.#*
+*.*#
+*.rej
+*.orig
+*.log
+
+# macOS system files
+.DS_Store
+
+# Other
+core*.user
