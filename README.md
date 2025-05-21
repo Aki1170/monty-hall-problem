@@ -49,6 +49,7 @@ Use CMake:
 cmake -S . -B build
 cmake --build build
 ./build/montyhall
+```
 
 Or open the project in Qt Creator for easier build, run, and debugging.
 
