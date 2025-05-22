@@ -39,11 +39,11 @@ It's a probability puzzle based on a game show scenario:
 
 ## 🧪 Example Output
 
-StubbornPlayer win rate: 33.19%
-SwitchingPlayer win rate: 66.51%
-ProbabilisticPlayer (25%) win rate: 41.57%
-ProbabilisticPlayer (50%) win rate: 49.88%
-ProbabilisticPlayer (75%) win rate: 58.32%
+- StubbornPlayer win rate: 33.19%
+- SwitchingPlayer win rate: 66.51%
+- ProbabilisticPlayer (25%) win rate: 41.57%
+- ProbabilisticPlayer (50%) win rate: 49.88%
+- ProbabilisticPlayer (75%) win rate: 58.32%
 
 
 ## 🚀 Building
