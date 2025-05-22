@@ -22,6 +22,8 @@ add_executable(montyhall
 
     simulation.cpp
     simulation.h
+    probabilistic_player.h
+    probabilistic_player.cpp
 )
 
 include(GNUInstallDirs)
