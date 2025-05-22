@@ -18,9 +18,6 @@ int main() {
     sim.run(alwaysStick);
     std::cout << "StubbornPlayer win rate: " << sim.getWinRate() << "%" << std::endl;
 
-    sim.run(alwaysSwitch);
-    std::cout << "SwitchingPlayer win rate: " << sim.getWinRate() << "%" << std::endl;
-
     sim.run(maybeSwitch25);
     std::cout << "ProbabilisticPlayer (25%) win rate: " << sim.getWinRate() << "%" << std::endl;
 
@@ -29,6 +26,9 @@ int main() {
 
     sim.run(maybeSwitch75);
     std::cout << "ProbabilisticPlayer (75%) win rate: " << sim.getWinRate() << "%" << std::endl;
+
+    sim.run(alwaysSwitch);
+    std::cout << "SwitchingPlayer win rate: " << sim.getWinRate() << "%" << std::endl;
 
     return 0;
 }
