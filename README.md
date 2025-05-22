@@ -56,7 +56,7 @@ cmake --build build
 ./build/montyhall
 ```
 
-r open the project in Qt Creator for easier build, run, and debugging.
+Or open the project in Qt Creator for easier build, run, and debugging.
 
 📄 License
 
